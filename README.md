@@ -6,13 +6,13 @@ This is a simple Todo application built using TypeScript, Vanilla JavaScript, an
 
 ## Features
 
-1. Add Item: Users can add new items to their todo list by entering the task description and pressing the "Add" button.
+1. **Add Item**: Users can add new items to their todo list by entering the task description and pressing the "Add" button.
 
-2. Remove Item: Users can remove a specific item from the todo list by clicking the "Remove" button associated with that item.
+2. **Remove Item**: Users can remove a specific item from the todo list by clicking the "Remove" button associated with that item.
 
-3. Mark as Completed: Users can mark a task as completed by clicking the checkbox next to the task description. Completed tasks will be visually indicated with a strike-through line.
+3. **Mark as Completed**: Users can mark a task as completed by clicking the checkbox next to the task description. Completed tasks will be visually indicated with a strike-through line.
 
-4. Clear All Todos: Users can clear all the todos from the list by clicking the "Clear" button. This action will remove all the tasks from the list.
+4. **Clear All Todos**: Users can clear all the todos from the list by clicking the "Clear" button. This action will remove all the tasks from the list.
 
 ## Technologies Used
 
